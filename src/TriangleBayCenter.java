@@ -1,8 +1,8 @@
 //https://www.codewars.com/kata/5601c5f6ba804403c7000004/train/java
 
 import java.util.Arrays;
-
 public class TriangleBayCenter {
+
     public static void main(String[] args) {
         double[] x = {4, 6};
         double[] y = {12, 4};

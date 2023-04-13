@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ReversedWords {
+
     public static void main(String[] args) {
         System.out.println(reversedWords("Here is an example!"));
     }
@@ -21,5 +22,4 @@ public class ReversedWords {
         result.deleteCharAt(result.length() - 1);
         return result.toString();
     }
-
 }

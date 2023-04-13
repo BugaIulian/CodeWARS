@@ -1,4 +1,5 @@
 public class Sorted {
+
     public static void main(String[] args) {
         int[] sortedArray = {1, 2, 13, 21};
         System.out.println(sortOrNot(sortedArray));
