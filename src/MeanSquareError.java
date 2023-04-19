@@ -1,4 +1,5 @@
 //https://www.codewars.com/kata/51edd51599a189fe7f000015/train/java
+
 public class MeanSquareError {
 
     public static void main(String[] args) {
