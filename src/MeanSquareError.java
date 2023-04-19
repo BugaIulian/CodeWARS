@@ -12,7 +12,6 @@ public class MeanSquareError {
         double sum = 0;
         for (int index = 0; index < arr1.length; index++) {
             sum += Math.pow((arr1[index] - arr2[index]) * -1, 2);
-
         }
         return sum / arr1.length;
     }
